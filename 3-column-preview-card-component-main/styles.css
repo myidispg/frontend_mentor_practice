@@ -1,0 +1,100 @@
+body {
+    background-color: hsl(0, 0%, 95%);
+    color: hsla(0, 0%, 100%, 0.75);
+    font-family: 'Lexend Deca', sans-serif;
+}
+
+h1 {
+    margin: 20px auto;
+    color: hsl(0, 0%, 95%);
+    font-family: 'Big Shoulders Display', cursive;
+    text-transform: uppercase;
+}
+
+/* Class Styles */
+
+.card-section {
+    margin: 6%;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.row {
+    margin: 0;
+}
+
+.col-lg-4 {
+    padding: 5%;
+}
+
+.sedans-col{
+    background-color: hsl(31, 77%, 52%);
+}
+
+.icon {
+    height: 40px;
+    width: 64px;
+    display: block;
+}
+
+.sedan-icon {
+    background: url('images/icon-sedans.svg');
+    
+}
+
+.suv-col{
+    background-color: hsl(184, 100%, 22%);
+}
+
+.suv-icon {
+    background: url('images/icon-suvs.svg');
+
+}
+
+.luxury-col{
+    background-color: hsl(179, 100%, 13%);
+}
+
+.luxury-icon {
+    background: url('images/icon-luxury.svg');
+
+}
+
+/* Buttons */
+.button {
+    display: block;
+    margin-top: 80px;
+    padding: 10px 40px;
+    border-radius: 30px;
+    border: 1px solid white;
+}
+
+@media screen and (max-width: 600px) {
+    .button{
+        margin-top: 40px;
+    }
+
+    
+    .col-lg-4 {
+        padding: 10%;
+    }
+}
+
+.button:hover {
+    background-color: transparent;
+    border: 1px solid white;
+    color: white;
+}
+
+.button-sedans{
+    color: hsl(31, 77%, 52%);
+}
+
+.button-suv{
+    color: hsl(184, 100%, 22%);
+}
+
+.button-luxury{
+    color: hsl(179, 100%, 13%);
+}
+
