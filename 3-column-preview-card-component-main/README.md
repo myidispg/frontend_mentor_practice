@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Link to Github](https://github.com/myidispg/frontend_mentor_practice/tree/main/3-column-preview-card-component-main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://myidispg.github.io/frontend_mentor_practice/3-column-preview-card-component-main/index.html)
 
 ## My process
 
