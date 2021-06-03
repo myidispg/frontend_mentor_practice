@@ -46,6 +46,6 @@ Learnt to add device specific code to optimize layout for different screen sizes
 
 ## Author
 
-- Website - [Add your name here](https://github.com/myidispg/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/myidispg)
-- Twitter - [@yourusername](https://www.twitter.com/myidispg) (I don't post a lot)
+- Website - [Prashant Goyal](https://github.com/myidispg/)
+- Frontend Mentor - [@myidispg](https://www.frontendmentor.io/profile/myidispg)
+- Twitter - [@myidispg](https://www.twitter.com/myidispg) (I don't post a lot)
